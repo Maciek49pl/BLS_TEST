@@ -1,0 +1,13 @@
+Projekt nie zawiera żadnych zewnętrznych pluginów ani assetów. Zostały użyte tylko assety z załączonej w mailu paczce.
+
+Projekt był grą 2D z gatunku SHUMP wykonaną w Unity 2021.3
+
+10:30 - 11:00 - Implementacja postaci gracza;
+11:00 - 11:30 - Wstawienie ruchomego tła;
+11:30 - 12:00 - Stworzenie ai przeciwnika;
+12:00 - 12:30 - Implementacja strzelania oraz kolizji z ruchomymi przeciwnikami;
+12:30 - 13:00 - Tworzenie UI i nadawanie jemu funkcjonalności;
+13:00 - 13:30 - Tworzenie ekranu startowego wraz z zapisującym się highscore;
+13:30 - 14:00 - Implementacja czasu oraz mechaniki 'przegrywania' po stracie żyć lub skończeniu czasu;
+14:00 - 14:30 - Niszczenie obiektów które wyjdą poza widok kamery;
+14:30 - 16:00 - Testowanie i czyszczenie kodu;
